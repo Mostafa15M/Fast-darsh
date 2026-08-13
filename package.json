@@ -1,7 +1,9 @@
 {
-  "name": "fast-darsh",
+  "name": "darsh-egypt-worker",
   "version": "26.16.0",
-  "description": "Darsh Egypt - Lovable Proxy Server",
-  "type": "module"
+  "private": true,
+  "scripts": {
+    "build": "echo \"no build\"",
+    "dev": "echo \"dev\""
+  }
 }
-
